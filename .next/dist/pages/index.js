@@ -12,7 +12,7 @@ var _PageLayout = require('../components/PageLayout');
 
 var _PageLayout2 = _interopRequireDefault(_PageLayout);
 
-var _index = require('../styles/index.scss');
+var _index = require('./static/styles/index.scss');
 
 var _index2 = _interopRequireDefault(_index);
 

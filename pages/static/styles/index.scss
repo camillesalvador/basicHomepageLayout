@@ -1,5 +1,5 @@
 $primary-color: #fefefe;
-$hero-image: url('../static/images/hero.jpg');
+$hero-image: url('../hero.jpg');
 $overlay: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 
 body {
@@ -65,6 +65,7 @@ footer {
   position: fixed;
   bottom: 0;
   left: 44%;
+  padding-bottom: 20px;
   a {
     margin: 0 5px;
     text-decoration: none;
