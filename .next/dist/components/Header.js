@@ -27,7 +27,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 5
     }
-  }, _react2.default.createElement(_link2.default, { href: '/', __source: {
+  }, _react2.default.createElement(_link2.default, { href: '../', __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
@@ -49,7 +49,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 12
     }
-  }, _react2.default.createElement(_link2.default, { href: '/', __source: {
+  }, _react2.default.createElement(_link2.default, { href: '../', __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     }
@@ -58,7 +58,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 14
     }
-  }, 'Home')), _react2.default.createElement(_link2.default, { href: '/', __source: {
+  }, 'Home')), _react2.default.createElement(_link2.default, { href: '../', __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     }
@@ -67,7 +67,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 17
     }
-  }, 'About')), _react2.default.createElement(_link2.default, { href: '/', __source: {
+  }, 'About')), _react2.default.createElement(_link2.default, { href: '../', __source: {
       fileName: _jsxFileName,
       lineNumber: 19
     }
@@ -76,7 +76,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 20
     }
-  }, 'Blog')), _react2.default.createElement(_link2.default, { href: '/', __source: {
+  }, 'Blog')), _react2.default.createElement(_link2.default, { href: '../', __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     }
