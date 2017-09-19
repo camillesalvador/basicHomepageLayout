@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/PageLayout'
 
-import stylesheet from 'styles/index.scss'
+import stylesheet from '../static/index.scss'
 // or, if you work with plain css
 // import stylesheet from 'styles/index.css'
 
